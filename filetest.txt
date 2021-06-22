@@ -1,0 +1,2 @@
+C supports the use of pointers, a type of reference that records the address or location of an object or function in memory.
+Like most procedural languages in the ALGOL tradition, C has facilities for structured programming and allows lexical variable scope and recursion.
